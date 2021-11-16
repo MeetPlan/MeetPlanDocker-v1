@@ -1,0 +1,5 @@
+subrepositories/MeetPlan
+
+# Database
+db.sqlite
+*.db
